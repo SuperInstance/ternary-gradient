@@ -106,3 +106,11 @@ Part of the **SuperInstance** ternary computing suite:
 ## License
 
 MIT
+
+## See Also
+- **ternary-fitness** — related
+- **ternary-compass** — related
+- **ternary-ga** — related
+- **ternary-optimization** — related
+- **ternary-energy** — related
+
